@@ -1,7 +1,7 @@
-# Digital Marketing Campaign Analysis  
+# 📊 Digital Marketing Campaign Analysis  
 
 ## 📌 Project Overview  
-This project analyzes digital marketing campaigns across multiple channels (Marketing, Paid Search, and PPC) to uncover insights into campaign performance, audience engagement, and ROI.  
+This project analyzes digital marketing campaigns across multiple channels (**Marketing, Paid Search, and PPC**) to uncover insights into campaign performance, audience engagement, and ROI.  
 The goal is to provide **data-driven recommendations** to optimize marketing spend, boost conversions, and improve targeting strategies.  
 
 ---
@@ -41,6 +41,9 @@ The project uses three main datasets:
 ---
 
 ## 📂 Project Structure  
+
+```
+
 Digital-Marketing-Campaign-Analysis/
 │
 ├── data/                     # Dataset files (Excel/CSV)
@@ -50,31 +53,46 @@ Digital-Marketing-Campaign-Analysis/
 ├── requirements.txt          # Python libraries used
 └── .gitignore                # Excluded unnecessary files
 
+````
+
 ---
 
 ## 🚀 How to Run Locally  
 
-1. **Clone the repository** 
+1. **Clone the repository**  
 ```bash
 git clone https://github.com/Ayushama/Digital-Marketing-Campaign-Analysis.git
+````
 
 2. **Navigate to the project folder**
+
 ```bash
 cd Digital-Marketing-Campaign-Analysis
+```
 
 3. **Install required dependencies**
+
 ```bash
 pip install -r requirements.txt
+```
 
 4. **Run the Jupyter Notebook**
+
 ```bash
 jupyter notebook notebooks/Digital_Campaign.ipynb
-
----
-
-Would you like me to also prepare the **`requirements.txt`** so you can add it directly to your repo and make setup easier for others?
+```
 
 ---
 
 ## 👨‍💻 Author
-**Ayush Aman**  
+
+**Ayush Aman**
+
+```
+
+---
+
+⚡ Next Step: I can create a **`requirements.txt`** file for you (listing only the libraries you’ve actually used in the notebook like pandas, matplotlib, seaborn, plotly, jupyter).  
+
+👉 Do you want me to generate that file so you can just drop it into the repo?
+```
