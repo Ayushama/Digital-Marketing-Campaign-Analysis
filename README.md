@@ -54,6 +54,20 @@ Digital-Marketing-Campaign-Analysis/
 └── .gitignore                # Excluded unnecessary files
 
 ````
+---
+## Dashboard Preview  
+Here are some key snapshots from the Power BI report:
+
+## Marketing Campaign Performance
+<img width="1453" height="802" alt="Marketing Campaign Performance" src="https://github.com/user-attachments/assets/beca9ea7-5fbe-4689-989e-3a85645833be" />
+
+
+## Paid Search Campaign
+<img width="1435" height="787" alt="Paid Search Campaign" src="https://github.com/user-attachments/assets/e7481add-c785-4230-a6c5-8cfe58b950b8" />
+
+
+## PPC Performance
+<img width="1441" height="797" alt="PPC Performance" src="https://github.com/user-attachments/assets/5374164a-2d03-44b8-879b-3828d4e236ef" />
 
 ---
 
