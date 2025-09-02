@@ -45,19 +45,13 @@ The project uses three main datasets:
 ```
 
 Digital-Marketing-Campaign-Analysis/
-├── data/
-│   ├── Marketing.xlsx
-│   ├── Paid.xlsx
-│   └── PPC.xlsx
-├── notebooks/
-│   └── Digital_Campaign.ipynb
-├── visuals/
-│   ├── marketing_chart.png
-│   ├── paid_chart.png
-│   └── ppc_chart.png
-├── README.md
-├── requirements.txt
-└── .gitignore
+│
+├── data/ # Dataset files (Excel/CSV)
+├── notebooks/ # Jupyter Notebooks
+├── visuals/ # Exported charts/plots
+├── README.md # Project overview
+├── requirements.txt # Python libraries used
+└── .gitignore # Excluded unnecessary files
 
 ````
 
