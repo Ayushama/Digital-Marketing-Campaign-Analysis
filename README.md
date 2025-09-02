@@ -46,12 +46,12 @@ The project uses three main datasets:
 
 Digital-Marketing-Campaign-Analysis/
 │
-├── data/ # Dataset files (Excel/CSV)
-├── notebooks/ # Jupyter Notebooks
-├── visuals/ # Exported charts/plots
-├── README.md # Project overview
-├── requirements.txt # Python libraries used
-└── .gitignore # Excluded unnecessary files
+├── data/                     # Dataset files (Excel/CSV)
+├── notebooks/                # Jupyter Notebooks
+├── visuals/                  # Exported charts/plots
+├── README.md                 # Project overview
+├── requirements.txt          # Python libraries used
+└── .gitignore                # Excluded unnecessary files
 
 ````
 
@@ -87,6 +87,7 @@ jupyter notebook notebooks/Digital_Campaign.ipynb
 ## 👨‍💻 Author
 
 **Ayush Aman**
+
 
 ```
 
