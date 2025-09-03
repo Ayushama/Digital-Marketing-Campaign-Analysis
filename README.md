@@ -28,7 +28,7 @@ The project uses three main datasets:
 - **Python** → Pandas, Matplotlib, Plotly, Seaborn  
 - **Jupyter Notebook** → Interactive analysis  
 - **Power BI** → Dashboarding & visualization  
-- **Git & GitHub** → Version control and collaboration  
+- **Git & GitHub** → Version control and collaboration   
 
 ---
 
